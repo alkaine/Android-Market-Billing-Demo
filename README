@@ -1,0 +1,6 @@
+To test billing operation for android 
+
+1/ copy you ./Release.keystore
+2/ update file src/com/chugulu/dungeons/security.java , search "String base64EncodedPublicKey"
+
+Have nice day !
