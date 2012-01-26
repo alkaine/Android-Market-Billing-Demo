@@ -1,0 +1,13 @@
+COMPIL_MODE=debug
+TARGET=device
+LOG=debug
+ACTIVITY=Dungeons
+PACKAGE=com.chugulu.dungeons
+PREFIX=market_billing
+APK="bin/$ACTIVITY-$COMPIL_MODE.apk"
+#APK="bin/$PREFIX-$COMPIL_MODE.apk"
+# specific phonegap config
+PHONEGAP=false
+PHONEGAP_VERSION=
+BUILDER=false
+WWW_FOLDER=false
